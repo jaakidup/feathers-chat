@@ -1,0 +1,1 @@
+{"parent":null,"pid":21632,"argv":["/usr/bin/node","/usr/bin/npm","run","mocha"],"execArgv":[],"cwd":"/home/jaaki/Code/feathers-chat","time":1591624582763,"ppid":21621,"coverageFilename":"/home/jaaki/Code/feathers-chat/.nyc_output/e5853e7d-9cdf-440d-b4ce-2db9dbd3a606.json","externalId":"","uuid":"e5853e7d-9cdf-440d-b4ce-2db9dbd3a606","files":[]}
